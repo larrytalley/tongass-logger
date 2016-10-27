@@ -1,0 +1,13 @@
+loggingLevel=4
+logFile=tongasslogger.log.txt
+logFileSize=5000000
+logFileCount=5
+logFileAppend=true
+activeMqProtocol=tcp
+activeMqHost=localhost
+activeMqPort=61616
+activeMqTopic=log
+activeMqClientId=tongasslogger
+activeMqConsumerName=logStatementConsumer
+activeMqUser=OVERRIDE
+activeMqPassword=OVERRIDE

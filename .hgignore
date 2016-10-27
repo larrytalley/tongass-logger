@@ -1,0 +1,15 @@
+
+syntax: regexp
+^target$
+syntax: regexp
+^activemq-data$
+syntax: regexp
+^app\.properties$
+syntax: regexp
+\.txt0$
+syntax: regexp
+\.1$
+syntax: regexp
+\.lck$
+syntax: regexp
+^\.settings$
